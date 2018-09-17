@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--dark purple 500-->
+    <color name="colorPrimary">#673AB7</color>
+    <!--dark purple 900-->
+    <color name="colorPrimaryDark">#311B92</color>
+    <!--dark purple 300-->
+    <color name="colorAccent">#9575CD</color>
+
+    <!--light blue 500-->
+    <color name="background">#03A9F4</color>
+
+    <color name="category_meanings">#FFEB3B</color>
+
+    <color name="category_characters">#FFCA28</color>
+
+    <color name="category_pinyin">#FFB300</color>
+
+    <color name="category_random">#FF9800</color>
+
+    <color name="correct">#388E3C</color>
+    <color name="wrong">#D32F2F</color>
+    <color name="origin">#E0E0E0</color>
+
+    <color name="dislike">#616161</color>
+    <color name="like">#E91E63</color>
+</resources>
